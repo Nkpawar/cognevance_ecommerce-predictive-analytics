@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Raw datasets
+data/raw/
+*.xlsx
+*.xls
+
+# Generated processed data
+data/processed/*.csv
+
+# Machine learning models
+models/*.pkl
+models/*.joblib
+
+# Power BI temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
